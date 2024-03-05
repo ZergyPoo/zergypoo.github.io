@@ -3,6 +3,7 @@ layout: post
 title: Advisor Link Student Scheduling Wizard
 subtitle: Connecting students with their advisors
 author: Evan Kennedy
+thumbnail-img: /assets/img/wizardLocationSelect.png
 ---
 
 A managed package developed on the Force.com platform, Advisor Link has many features. Easily the biggest one of these is the ability for students and advisors to schedule appointments with one another. Enter the student scheduling wizard.
