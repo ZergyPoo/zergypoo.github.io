@@ -13,10 +13,14 @@ Built in Salesforce Ecuation Cloud, it is an LWC that implements the builder fra
 
 ## Architecture and Organization
 
-The builder uses an subscribe and emit model to broadcast changes across the UI. When the user clicks on a node, the builder emits that node information to the properties panel to render the appropriate form.
+The builder uses an subscribe and emit model to broadcast changes across the UI. When the user clicks on a node, the builder emits that node information to the properties panel to render the appropriate content. Similarly, when the user saves their properties, the builder emits the update to the canvas so that it knows to update the tree view.
 
 ![Properties Panel](/assets/img/propertiesPanel.png)
 
 To allow customization, this panel honors the org's page layout properties.
 
 ![Form from page layout](/assets/img/pageLayout.png)
+
+To enable the easy adding and searching of courses, we created a modal that allows the user to search for, and select, en masse, the courses they wish to add to the node.
+
+![Mass Course Selector](/assets/img/massSelector.png)
