@@ -3,6 +3,7 @@ layout: post
 title: Program Plan Builder
 subtitle: A tool to allow advisors to create education programs
 author: Evan Kennedy
+thumbnail-img: /assets/img/ppbTree.png
 ---
 
 Creating and maging education programs is very difficult. This project, the Program Plan Builder, makes that easier.
