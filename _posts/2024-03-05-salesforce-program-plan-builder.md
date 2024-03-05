@@ -9,4 +9,4 @@ Creating and maging education programs is very difficult. This project, the Prog
 
 Built in Salesforce Ecuation Cloud, it is an LWC that implements the builder framework to help manage and visualize education progrms, such as majors and minors.
 
-![image](assets/img/programPlanBuilder.pgn)
+![image](/assets/img/programPlanBuilder.png)
