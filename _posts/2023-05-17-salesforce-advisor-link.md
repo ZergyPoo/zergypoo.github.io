@@ -20,6 +20,10 @@ On the advisor side, it let's them customize many elements of the scheduling exp
 - The ability to have abailability in different locations and different times.
 - The ability to setup appointments that a group of studnets can attend.
 
+## My Role
+
+Lead developer. I architected and facilitated the building of this project.
+
 ## How was it built?
 
 The wizard is an LWC component with an Apex back-end. Instead of using a fixed number of pages, it determines what to ask the student next based off of the data they have already selected. If they have selected nothing, it loads the first page, letting them select who they want to meet with. This enabled us to establish a nice, data-driven testing approach, and it also allowed us to facilitate other flows, like the rescheduling of an appointment. Rather than juggle different static pages, we give it the seed data, and it renders the appropriate screen.
