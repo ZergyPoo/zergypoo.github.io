@@ -76,7 +76,7 @@ I have been working in the web development field for over 18 years, and in the F
 - Working as the go-between between the Cox Dedicated Team and platform teams.
 - Implementing Java solutions, when required, to help facilitate back-end feature needs.
 
-### Programmer Analyst, Reside, LLc (now Magnet 360)
+### Programmer Analyst, Reside, LLC (now Magnet 360)
 *June 2005 to September 2009*
 
 - Architecting and designing web applications and databases based on client needs.
