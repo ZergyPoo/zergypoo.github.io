@@ -17,4 +17,4 @@ Using apex and visualforce (pre-lightning), I built the interface that let admin
 
 Then a single trigger able to ingest any object would run, and cross-reference the data, determining if the criteria was met. If so, it would award that person points based off of this data. 
 
-Additionally, this data was synced with a rewards system API so that the user could cash in their points! 
+Additionally, this data was synced with a rewards system API so that the user could cash in their points.

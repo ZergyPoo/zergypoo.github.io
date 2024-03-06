@@ -6,9 +6,9 @@ author: Evan Kennedy
 thumbnail-img: /assets/img/ppbTree.png
 ---
 
-Creating and maging education programs is very difficult. This project, the Program Plan Builder, makes that easier.
+Creating and managing education programs is very difficult. This project, the Program Plan Builder, makes that easier.
 
-Built in Salesforce Ecuation Cloud, it is an LWC that implements the builder framework to help manage and visualize education progrms, such as majors and minors. Rendered in a tree structure, each node represents the program, or a grouping of elective or required courses.
+Built in Salesforce Education Cloud, it is an LWC that implements the builder framework to help manage and visualize education progrms, such as majors and minors. Rendered in a tree structure, each node represents the program, or a grouping of elective or required courses.
 
 ![Program PLan Tree](/assets/img/ppbTree.png)
 
