@@ -36,3 +36,42 @@ I have been working in the web development field for over 18 years, and in the F
 - Interfacing with product owners to help describe work.
 - Performing code reviews and helping to implement coding best practices.
 
+### Lead Developer, Consultant and Partner, Modacto, LLC (now Xcede)
+*September 2013 to May 2017*
+
+- Leading development team in consulting practice, triaging and assigning work.
+- Conducting code reviews.
+- Setting direction for coding practices.
+- Meeting with clients to gather requirements and estimate projects.
+
+### Force.com Developer Contractor (via ZeroRez)
+*February 2013 to June 2013*
+
+- Working on a team of engineers to maintain and enhance Facebook's internal data center management application.
+- Working with very large sets of data, across an application that includes several million server parts and transactions, and hundreds of thousands of cases.
+
+### Salesforce Consultant, Charter Solutions
+*December 2013 to February 2013*
+
+- Working directly with the client to implement and administer their Force.com Installation.
+- Managing new field creation, object creation, estimation for custom Apex and Visualforce work.
+
+### Salesforce Developer, Internet Broadcasting
+*January 2010 to December 2012*
+
+- Gathering requirements from internal stakeholders of the Salesforce.com system.
+- Documenting, designing and estimating solutions to be implemented in Salesforce.com.
+- Implementing, testing and training users on the completed Salesforce.com applications.
+
+### Software Engineer, Internet Broadcasting
+*September 2009 to January 2010*
+
+- Building and Implementing primarily front-end solutions for the websites of Cox Media Group using HTML, XSL, CSS and JavaScript.
+- Working as the go-between between the Cox Dedicated Team and platform teams.
+- Implementing Java solutions, when required, to help facilitate back-end feature needs.
+
+### Programmer Analyst, Reside, LLc (now Magnet 360)
+*June 2005 to September 2009*
+
+- Architecting and designing web applications and databases based on client needs.
+- Helping to gather requirements from clients and come up with a plan and solution.
