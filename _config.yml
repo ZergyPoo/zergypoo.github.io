@@ -38,7 +38,7 @@ round-avatar: true
 # then specify the following parameter
 #title-img: /path/to/image
 
-remote-adds: true
+remove-ads: true
 
 
 #####################################
