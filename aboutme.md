@@ -3,7 +3,7 @@ layout: page
 title: About Me
 ---
 
-I have been working in the web development field for over 18 years, and in the Force.com ecosystem for over 15, building on numerous web development stacks and technologies. I am a highly efficient, and highly empathetic team tech lead. I believe teams deliver their best code when they have the space explore. I have a tremendous amount of pride and passion in the production of well-functioning, beautiful code.
+I have been working in the web development field for over 18 years, and in the Force.com ecosystem for over 15, building on numerous web development stacks and technologies. I am a highly efficient, and highly empathetic team tech lead. I believe teams deliver their best code when they have the space to explore. I have a tremendous amount of pride and passion in the production of well-functioning, beautiful code.
 
 ## Skills
 
