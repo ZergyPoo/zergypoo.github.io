@@ -21,7 +21,6 @@ I have been working in the web development field for over 18 years, and in the F
 ## Work Experience
 
 ### Lead Member of Technical Staff, Salesforce
-
 *May 2019 to Present*
 
 - Technical lead on the Education Cloud product team.
@@ -29,3 +28,11 @@ I have been working in the web development field for over 18 years, and in the F
 - Doing technical design for product features.
 - Setting coding practices and design pattern best practices for development.
 - Mentoring and helping other devs on the team.
+
+### Senior Member of Technical Staff, Salesforce
+*May 2017 to May 2019*
+
+- Senior individual contributor on the Education Cloud product team.
+- Interfacing with product owners to help describe work.
+- Performing code reviews and helping to implement coding best practices.
+
