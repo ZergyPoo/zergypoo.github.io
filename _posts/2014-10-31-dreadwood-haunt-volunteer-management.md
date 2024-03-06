@@ -5,7 +5,7 @@ subtitle: Facilitating the Management of Job, Dates, and Volunteers for a Local 
 author: Evan Kennedy
 ---
 
-A friend of mine organized a haunted forest in frigid eastern Wisonsin. A non-profit, Dreadwood relied entirely on volunteers to be run. They ran this out of a series of spreadsheets until this project.
+A friend of mine organized a haunted forest in frigid western Wisonsin. A non-profit, Dreadwood relied entirely on volunteers to be run. They ran this out of a series of spreadsheets until this project.
 
 At the end, I delivered a system that:
 
