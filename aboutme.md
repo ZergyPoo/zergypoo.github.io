@@ -7,8 +7,9 @@ I have been working in the web development field for over 18 years, and in the F
 
 ## Links
 
-[LinkedIn Profile](https://www.linkedin.com/in/evan-kennedy-8705748/)
-[Trailhead Profile](https://www.salesforce.com/trailblazer/ekennedy2)
+<a href="https://www.linkedin.com/in/evan-kennedy-8705748/" target="_blank">LinkedIn Profile</a>
+
+<a href="https://www.salesforce.com/trailblazer/ekennedy2" target="_blank">Trailhead</a>
 
 ## Skills
 
