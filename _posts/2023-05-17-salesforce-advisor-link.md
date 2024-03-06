@@ -14,10 +14,10 @@ Among many other features, this wizard lets users:
 - See a list of advisors specifically assigned to them and schedule directly.
 - See a list of advising pools, like a generalized financial aid department, and schedule with anyone in the group.
 
-On the advisor side, it let's them customize many elements of the scheduling experience, including:
+On the advisor side, it lets them customize many elements of the scheduling experience, including:
 
 - Which topics they support.
-- How long each appointment is based on which topic.
+- How long each appointment is based on topic.
 - The ability to have availability in different locations and different times.
 - The ability to set up appointments that a group of studnets can attend.
 
@@ -27,7 +27,7 @@ Lead developer. I architected and facilitated the building of this project.
 
 ## How was it built?
 
-The wizard is an LWC component with an Apex back-end. Instead of using a fixed number of pages, it determines what to ask the student next based off of the data they have already selected. If they have selected nothing, it loads the first page, letting them select who they want to meet with. This enabled us to establish a nice, data-driven testing approach, and it also allowed us to facilitate other flows, like the rescheduling of an appointment. Rather than juggle different static pages, we give it the seed data, and it renders the appropriate screen.
+The wizard is an LWC component with an Apex back-end. Instead of using a fixed number of pages, it determines what to ask the student next based off of the data they have already selected. If they have selected nothing, it loads the first page, letting them select who they want to meet with. This enabled us to establish a data-driven testing approach and it also allowed us to facilitate other flows, like the rescheduling of an appointment. Rather than juggle different static pages, we give it the seed data, and it renders the appropriate screen.
 
 ![Advisor Select](/assets/img/wizardAdvisorSelect.png)
 
