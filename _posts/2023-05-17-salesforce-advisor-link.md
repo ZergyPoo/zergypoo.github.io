@@ -18,8 +18,8 @@ On the advisor side, it let's them customize many elements of the scheduling exp
 
 - Which topics they support.
 - How long each appointment is based on which topic.
-- The ability to have abailability in different locations and different times.
-- The ability to setup appointments that a group of studnets can attend.
+- The ability to have availability in different locations and different times.
+- The ability to set up appointments that a group of studnets can attend.
 
 ## My Role
 
