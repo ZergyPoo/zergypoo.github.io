@@ -16,7 +16,7 @@ Built in Salesforce Education Cloud, it is an LWC that implements the builder fr
 
 Lead developer. I architected and facilitated the building of this project.
 
-## Architecture and Organization
+## How was it Built?
 
 The builder uses an subscribe and emit model to broadcast changes across the UI. When the user clicks on a node, the builder emits that node information to the properties panel to render the appropriate content. Similarly, when the user saves their properties, the builder emits the update to the canvas so that it knows to update the tree view.
 
