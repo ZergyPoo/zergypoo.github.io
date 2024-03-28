@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Pathway Builder
+title: Student Pathway Builder
 subtitle: An innovative school career planner for students
 author: Evan Kennedy
 thumbnail-img: /assets/img/pathwayBuilderThumbnail.png
