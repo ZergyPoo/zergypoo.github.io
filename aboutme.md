@@ -28,6 +28,7 @@ I have been working in the web development field for over 18 years, and in the F
 - Doing technical design for product features.
 - Setting coding practices and design pattern best practices for development.
 - Mentoring and helping other devs on the team.
+- Almost exclusively operating in the client-side JavaScript space in the last few years.
 
 ### Senior Member of Technical Staff, Salesforce
 *May 2017 to May 2019*
@@ -35,6 +36,7 @@ I have been working in the web development field for over 18 years, and in the F
 - Senior individual contributor on the Education Cloud product team.
 - Interfacing with product owners to help describe work.
 - Performing code reviews and helping to implement coding best practices.
+- Primarily in the on-platform Salesforce stack working in Apex and LWC.
 
 ### Lead Developer, Consultant and Partner, Modacto, LLC (now Xcede)
 *September 2013 to May 2017*
@@ -43,6 +45,7 @@ I have been working in the web development field for over 18 years, and in the F
 - Conducting code reviews.
 - Setting direction for coding practices.
 - Meeting with clients to gather requirements and estimate projects.
+- A large mix of technology stacks, from Apex and LWC to Java, AngularJS and others.
 
 ### Force.com Developer Contractor (via ZeroRez)
 *February 2013 to June 2013*
